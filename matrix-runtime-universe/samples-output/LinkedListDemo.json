@@ -1,0 +1,1503 @@
+[
+  {
+    "stepNumber": 0,
+    "lineNumber": 13,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 1,
+    "lineNumber": 6,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 6,
+        "primitiveLocals": {
+          "data": "10"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 2,
+    "lineNumber": 7,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 7,
+        "primitiveLocals": {
+          "data": "10"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 3,
+    "lineNumber": 8,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 8,
+        "primitiveLocals": {
+          "data": "10"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 4,
+    "lineNumber": 13,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 5,
+    "lineNumber": 14,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 6,
+    "lineNumber": 6,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 6,
+        "primitiveLocals": {
+          "data": "20"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 7,
+    "lineNumber": 7,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 7,
+        "primitiveLocals": {
+          "data": "20"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 8,
+    "lineNumber": 8,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 8,
+        "primitiveLocals": {
+          "data": "20"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 9,
+    "lineNumber": 14,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 10,
+    "lineNumber": 15,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 15,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 11,
+    "lineNumber": 6,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 15,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 6,
+        "primitiveLocals": {
+          "data": "30"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 12,
+    "lineNumber": 7,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 15,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 7,
+        "primitiveLocals": {
+          "data": "30"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 13,
+    "lineNumber": 8,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 15,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 8,
+        "primitiveLocals": {
+          "data": "30"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 14,
+    "lineNumber": 15,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 15,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 15,
+    "lineNumber": 16,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 16,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 16,
+    "lineNumber": 6,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 16,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 6,
+        "primitiveLocals": {
+          "data": "40"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 17,
+    "lineNumber": 7,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 16,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 7,
+        "primitiveLocals": {
+          "data": "40"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 18,
+    "lineNumber": 8,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 16,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427
+        }
+      },
+      {
+        "className": "Node",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 8,
+        "primitiveLocals": {
+          "data": "40"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 19,
+    "lineNumber": 16,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 16,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 20,
+    "lineNumber": 18,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 18,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427,
+          "fourth": 428
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 428,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "40"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 20,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 21,
+    "lineNumber": 19,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 19,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427,
+          "fourth": 428
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {
+          "next": 426
+        },
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 428,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "40"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 20,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 22,
+    "lineNumber": 20,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 20,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427,
+          "fourth": 428
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {
+          "next": 426
+        },
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {
+          "next": 427
+        },
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 428,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "40"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 20,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 23,
+    "lineNumber": 22,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 22,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427,
+          "fourth": 428
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {
+          "next": 426
+        },
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {
+          "next": 427
+        },
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {
+          "next": 428
+        },
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 428,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "40"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 20,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 24,
+    "lineNumber": 23,
+    "stack": [
+      {
+        "className": "LinkedListDemo",
+        "methodName": "main",
+        "lineNumber": 23,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426,
+          "third": 427,
+          "fourth": 428
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "10"
+        },
+        "referenceFields": {
+          "next": 426
+        },
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "20"
+        },
+        "referenceFields": {
+          "next": 427
+        },
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 427,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "30"
+        },
+        "referenceFields": {
+          "next": 428
+        },
+        "status": "LIVE",
+        "createdAtStep": 15,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 428,
+        "className": "Node",
+        "primitiveFields": {
+          "data": "40"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 20,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  }
+]

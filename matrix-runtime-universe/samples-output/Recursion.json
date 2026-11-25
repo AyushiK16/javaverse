@@ -1,0 +1,1190 @@
+[
+  {
+    "stepNumber": 0,
+    "lineNumber": 14,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 1,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "number": "5"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 2,
+    "lineNumber": 9,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 9,
+        "primitiveLocals": {
+          "number": "5"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 3,
+    "lineNumber": 10,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 4,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "number": "4"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 5,
+    "lineNumber": 9,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 9,
+        "primitiveLocals": {
+          "number": "4"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 6,
+    "lineNumber": 10,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 7,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "number": "3"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 8,
+    "lineNumber": 9,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 9,
+        "primitiveLocals": {
+          "number": "3"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 9,
+    "lineNumber": 10,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 10,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "number": "2"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 11,
+    "lineNumber": 9,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 9,
+        "primitiveLocals": {
+          "number": "2"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 12,
+    "lineNumber": 10,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "2",
+          "next": "1"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 13,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "2",
+          "next": "1"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "number": "1"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 14,
+    "lineNumber": 9,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "2",
+          "next": "1"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 9,
+        "primitiveLocals": {
+          "number": "1"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 15,
+    "lineNumber": 10,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "2",
+          "next": "1"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "1",
+          "next": "0"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 16,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "2",
+          "next": "1"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "1",
+          "next": "0"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "number": "0"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 17,
+    "lineNumber": 6,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "2",
+          "next": "1"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "1",
+          "next": "0"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 6,
+        "primitiveLocals": {
+          "number": "0"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 18,
+    "lineNumber": 11,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 14,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "5",
+          "next": "4"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "4",
+          "next": "3"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "3",
+          "next": "2"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 10,
+        "primitiveLocals": {
+          "number": "2",
+          "next": "1"
+        },
+        "referenceLocals": {}
+      },
+      {
+        "className": "Recursion",
+        "methodName": "countdown",
+        "lineNumber": 11,
+        "primitiveLocals": {
+          "number": "1",
+          "next": "0"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 19,
+    "lineNumber": 15,
+    "stack": [
+      {
+        "className": "Recursion",
+        "methodName": "main",
+        "lineNumber": 15,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  }
+]

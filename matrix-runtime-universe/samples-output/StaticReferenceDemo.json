@@ -1,0 +1,461 @@
+[
+  {
+    "stepNumber": 0,
+    "lineNumber": 13,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 1,
+    "lineNumber": 4,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "StaticBox",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 4,
+        "primitiveLocals": {
+          "value": "42"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 2,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "StaticBox",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "value": "42"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 3,
+    "lineNumber": 6,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "StaticBox",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 6,
+        "primitiveLocals": {
+          "value": "42"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 4,
+    "lineNumber": 13,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 5,
+    "lineNumber": 15,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 15,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "local": 425
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "StaticBox",
+        "primitiveFields": {
+          "value": "42"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 6,
+    "lineNumber": 16,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 16,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "local": 425
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "StaticBox",
+        "primitiveFields": {
+          "value": "42"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {
+      "StaticReferenceDemo.saved": 425
+    },
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 7,
+    "lineNumber": 18,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 18,
+        "primitiveLocals": {
+          "local": "null"
+        },
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "StaticBox",
+        "primitiveFields": {
+          "value": "42"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {
+      "StaticReferenceDemo.saved": 425
+    },
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 8,
+    "lineNumber": 19,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 19,
+        "primitiveLocals": {
+          "local": "null",
+          "value": "42"
+        },
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "StaticBox",
+        "primitiveFields": {
+          "value": "42"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {
+      "StaticReferenceDemo.saved": 425
+    },
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 9,
+    "lineNumber": 21,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 21,
+        "primitiveLocals": {
+          "local": "null",
+          "value": "42"
+        },
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "StaticBox",
+        "primitiveFields": {
+          "value": "42"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {
+      "StaticReferenceDemo.saved": 425
+    },
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 10,
+    "lineNumber": 22,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 22,
+        "primitiveLocals": {
+          "local": "null",
+          "value": "42"
+        },
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 11,
+    "lineNumber": 23,
+    "stack": [
+      {
+        "className": "StaticReferenceDemo",
+        "methodName": "main",
+        "lineNumber": 23,
+        "primitiveLocals": {
+          "local": "null",
+          "value": "42"
+        },
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  }
+]
