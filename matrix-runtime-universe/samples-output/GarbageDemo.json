@@ -1,0 +1,574 @@
+[
+  {
+    "stepNumber": 0,
+    "lineNumber": 12,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 12,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 1,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 12,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "GarbageObject",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "value": "10"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 2,
+    "lineNumber": 6,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 12,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "GarbageObject",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 6,
+        "primitiveLocals": {
+          "value": "10"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 3,
+    "lineNumber": 7,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 12,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      },
+      {
+        "className": "GarbageObject",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 7,
+        "primitiveLocals": {
+          "value": "10"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 4,
+    "lineNumber": 12,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 12,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 5,
+    "lineNumber": 13,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "GarbageObject",
+        "primitiveFields": {
+          "value": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 6,
+    "lineNumber": 5,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      },
+      {
+        "className": "GarbageObject",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 5,
+        "primitiveLocals": {
+          "value": "20"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "GarbageObject",
+        "primitiveFields": {
+          "value": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 7,
+    "lineNumber": 6,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      },
+      {
+        "className": "GarbageObject",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 6,
+        "primitiveLocals": {
+          "value": "20"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "GarbageObject",
+        "primitiveFields": {
+          "value": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 8,
+    "lineNumber": 7,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      },
+      {
+        "className": "GarbageObject",
+        "methodName": "\u003cinit\u003e",
+        "lineNumber": 7,
+        "primitiveLocals": {
+          "value": "20"
+        },
+        "referenceLocals": {}
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "GarbageObject",
+        "primitiveFields": {
+          "value": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 9,
+    "lineNumber": 13,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 13,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "GarbageObject",
+        "primitiveFields": {
+          "value": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 10,
+    "lineNumber": 15,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 15,
+        "primitiveLocals": {},
+        "referenceLocals": {
+          "args": 60,
+          "first": 425,
+          "second": 426
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 425,
+        "className": "GarbageObject",
+        "primitiveFields": {
+          "value": "10"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 5,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "GarbageObject",
+        "primitiveFields": {
+          "value": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 11,
+    "lineNumber": 16,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 16,
+        "primitiveLocals": {
+          "first": "null"
+        },
+        "referenceLocals": {
+          "args": 60,
+          "second": 426
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      },
+      {
+        "id": 426,
+        "className": "GarbageObject",
+        "primitiveFields": {
+          "value": "20"
+        },
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 10,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 12,
+    "lineNumber": 18,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 18,
+        "primitiveLocals": {
+          "first": "null",
+          "second": "null"
+        },
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  },
+  {
+    "stepNumber": 13,
+    "lineNumber": 19,
+    "stack": [
+      {
+        "className": "GarbageDemo",
+        "methodName": "main",
+        "lineNumber": 19,
+        "primitiveLocals": {
+          "first": "null",
+          "second": "null"
+        },
+        "referenceLocals": {
+          "args": 60
+        }
+      }
+    ],
+    "objects": [
+      {
+        "id": 60,
+        "className": "java.lang.String[]",
+        "primitiveFields": {},
+        "referenceFields": {},
+        "status": "LIVE",
+        "createdAtStep": 0,
+        "unreachableAtStep": -1,
+        "collectedAtStep": -1
+      }
+    ],
+    "staticReferences": {},
+    "newOutput": ""
+  }
+]

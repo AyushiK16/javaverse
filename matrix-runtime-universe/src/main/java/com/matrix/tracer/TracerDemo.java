@@ -14,11 +14,11 @@ public class TracerDemo {
         JdiTracer tracer = new JdiTracer();
 
         String[] samples = {
-                "Hello",
                 "Objects1",
                 "LinkedListDemo",
                 "GarbageDemo",
-                "Recursion"
+                "Recursion",
+                "StaticReferenceDemo"
         };
 
         Files.createDirectories(Path.of("samples-output"));
